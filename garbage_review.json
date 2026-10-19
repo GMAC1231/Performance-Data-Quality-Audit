@@ -8,12 +8,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT105-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: SKMHRC, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-10-12",
-    "organization": "SKMHRC",
-    "quantity": 1
+    "record": "PRPSTFPT105-Section 2-2"
   },
   {
     "ref": "PRPSTFPT105",
@@ -24,12 +19,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT105-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture, How Many: 5, Name Of Organization Planned with: Dr Kamala Dr Osman Mirza Dr Khalid Dr Mohsen Dr Hafiz Hassan, Planned: Yes, Scheduled: No",
-    "organization": "Dr Kamala Dr Osman Mirza Dr Khalid Dr Mohsen Dr Hafiz Hassan",
-    "quantity": 5
+    "record": "PRPSTFPT105-Section 2-3"
   },
   {
     "ref": "PRPSTFPT104",
@@ -40,12 +30,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT104",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT104"
   },
   {
     "ref": "PRPSTFPT104",
@@ -56,12 +41,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT104",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT104"
   },
   {
     "ref": "PRPSTFPT103",
@@ -72,12 +52,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT103",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT103"
   },
   {
     "ref": "PRPSTFPT103",
@@ -88,12 +63,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT103",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT103"
   },
   {
     "ref": "PRPSTFPT100",
@@ -104,12 +74,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT100-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: T, Planned: Yes, Scheduled: Yes, Datev Planned on: 2025-12-20",
-    "organization": "T",
-    "quantity": 1
+    "record": "PRPSTFPT100-Section 2-1"
   },
   {
     "ref": "PRPSTFPT99",
@@ -120,12 +85,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT99-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: T, Planned: Yes, Scheduled: Yes, Datev Planned on: 2025-12-20",
-    "organization": "T",
-    "quantity": 1
+    "record": "PRPSTFPT99-Section 2-1"
   },
   {
     "ref": "PRPSTFPT98",
@@ -136,12 +96,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT98-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture, How Many: 1, Name Of Organization Planned with: T, Planned: Yes, Scheduled: Yes, Datev Planned on: 2025-12-20",
-    "organization": "T",
-    "quantity": 1
+    "record": "PRPSTFPT98-Section 2-1"
   },
   {
     "ref": "PRPSTFPT97",
@@ -152,12 +107,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT97-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 240, Name Of Organization Planned with: About sixty six companies for the placement of industrial Training  Internship, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-10-02",
-    "organization": "About sixty six companies for the placement of industrial Training  Internship",
-    "quantity": 240
+    "record": "PRPSTFPT97-Section 2-1"
   },
   {
     "ref": "PRPSTFPT96",
@@ -168,12 +118,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT96",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT96"
   },
   {
     "ref": "PRPSTFPT92",
@@ -184,12 +129,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Title Parliament in Action, Planned: Yes, Scheduled: Yes",
-    "organization": "Title Parliament in Action",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-1"
   },
   {
     "ref": "PRPSTFPT92",
@@ -200,12 +140,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Title Data  Management Analysis Pivoting and Visualization using Excel and Google sheets, Planned: Yes, Scheduled: Yes",
-    "organization": "Title Data  Management Analysis Pivoting and Visualization using Excel and Google sheets",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-2"
   },
   {
     "ref": "PRPSTFPT92",
@@ -216,12 +151,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: Workshop on QGIS for data visualization through heat maps, Planned: Yes, Scheduled: Yes",
-    "organization": "Workshop on QGIS for data visualization through heat maps",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-3"
   },
   {
     "ref": "PRPSTFPT92",
@@ -232,12 +162,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Industrial Visit Millat Tractors, Planned: Yes, Scheduled: Yes",
-    "organization": "Industrial Visit Millat Tractors",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-4"
   },
   {
     "ref": "PRPSTFPT92",
@@ -248,12 +173,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Islamic Economic System  Modern Day Challenges, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Islamic Economic System  Modern Day Challenges",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-5"
   },
   {
     "ref": "PRPSTFPT92",
@@ -264,12 +184,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Rational Consumer Bahaviour and Climate change, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Rational Consumer Bahaviour and Climate change",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-6"
   },
   {
     "ref": "PRPSTFPT92",
@@ -280,12 +195,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Prospects of Pakistan Economy, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Prospects of Pakistan Economy",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-7"
   },
   {
     "ref": "PRPSTFPT92",
@@ -296,12 +206,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Environmental Challenges and Role of Youth, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Environmental Challenges and Role of Youth",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-8"
   },
   {
     "ref": "PRPSTFPT92",
@@ -312,12 +217,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Industrial Development, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Industrial Development",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-9"
   },
   {
     "ref": "PRPSTFPT92",
@@ -328,12 +228,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture How to Think Design and Execute Research in Emerging Economies, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture How to Think Design and Execute Research in Emerging Economies",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-10"
   },
   {
     "ref": "PRPSTFPT92",
@@ -344,12 +239,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-11",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-11"
   },
   {
     "ref": "PRPSTFPT92",
@@ -360,12 +250,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT92-Section 2-12",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-12"
   },
   {
     "ref": "PRPSTFPT92",
@@ -376,12 +261,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: blank",
     "severity": "High",
-    "record": "PRPSTFPT92-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: the",
-    "organization": "the",
-    "quantity": null
+    "record": "PRPSTFPT92-Section 4-1"
   },
   {
     "ref": "PRPSTFPT91",
@@ -392,12 +272,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Title Parliament in Action, Planned: Yes, Scheduled: Yes",
-    "organization": "Title Parliament in Action",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-1"
   },
   {
     "ref": "PRPSTFPT91",
@@ -408,12 +283,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Title Data  Management Analysis Pivoting and Visualization using Excel and Google sheets, Planned: Yes, Scheduled: Yes",
-    "organization": "Title Data  Management Analysis Pivoting and Visualization using Excel and Google sheets",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-2"
   },
   {
     "ref": "PRPSTFPT91",
@@ -424,12 +294,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: Workshop on QGIS for data visualization through heat maps, Planned: Yes, Scheduled: Yes",
-    "organization": "Workshop on QGIS for data visualization through heat maps",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-3"
   },
   {
     "ref": "PRPSTFPT91",
@@ -440,12 +305,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Industrial Visit Millat Tractors, Planned: Yes, Scheduled: Yes",
-    "organization": "Industrial Visit Millat Tractors",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-4"
   },
   {
     "ref": "PRPSTFPT91",
@@ -456,12 +316,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Islamic Economic System  Modern Day Challenges, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Islamic Economic System  Modern Day Challenges",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-5"
   },
   {
     "ref": "PRPSTFPT91",
@@ -472,12 +327,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Rational Consumer Bahaviour and Climate change, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Rational Consumer Bahaviour and Climate change",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-6"
   },
   {
     "ref": "PRPSTFPT91",
@@ -488,12 +338,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Prospects of Pakistan Economy, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Prospects of Pakistan Economy",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-7"
   },
   {
     "ref": "PRPSTFPT91",
@@ -504,12 +349,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Environmental Challenges and Role of Youth, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Environmental Challenges and Role of Youth",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-8"
   },
   {
     "ref": "PRPSTFPT91",
@@ -520,12 +360,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Industrial Development, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Industrial Development",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-9"
   },
   {
     "ref": "PRPSTFPT91",
@@ -536,12 +371,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture How to Think Design and Execute Research in Emerging Economies, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture How to Think Design and Execute Research in Emerging Economies",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-10"
   },
   {
     "ref": "PRPSTFPT91",
@@ -552,12 +382,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-11",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-11"
   },
   {
     "ref": "PRPSTFPT91",
@@ -568,12 +393,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT91-Section 2-12",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-12"
   },
   {
     "ref": "PRPSTFPT91",
@@ -584,12 +404,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: blank",
     "severity": "High",
-    "record": "PRPSTFPT91-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: the",
-    "organization": "the",
-    "quantity": null
+    "record": "PRPSTFPT91-Section 4-1"
   },
   {
     "ref": "PRPSTFPT90",
@@ -600,12 +415,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Title Parliament in Action, Planned: Yes, Scheduled: Yes",
-    "organization": "Title Parliament in Action",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-1"
   },
   {
     "ref": "PRPSTFPT90",
@@ -616,12 +426,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Title Data  Management Analysis Pivoting and Visualization using Excel and Google sheets, Planned: Yes, Scheduled: Yes",
-    "organization": "Title Data  Management Analysis Pivoting and Visualization using Excel and Google sheets",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-2"
   },
   {
     "ref": "PRPSTFPT90",
@@ -632,12 +437,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: Workshop on QGIS for data visualization through heat maps, Planned: Yes, Scheduled: Yes",
-    "organization": "Workshop on QGIS for data visualization through heat maps",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-3"
   },
   {
     "ref": "PRPSTFPT90",
@@ -648,12 +448,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Industrial Visit Millat Tractors, Planned: Yes, Scheduled: Yes",
-    "organization": "Industrial Visit Millat Tractors",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-4"
   },
   {
     "ref": "PRPSTFPT90",
@@ -664,12 +459,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Islamic Economic System  Modern Day Challenges, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Islamic Economic System  Modern Day Challenges",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-5"
   },
   {
     "ref": "PRPSTFPT90",
@@ -680,12 +470,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Rational Consumer Bahaviour and Climate change, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Rational Consumer Bahaviour and Climate change",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-6"
   },
   {
     "ref": "PRPSTFPT90",
@@ -696,12 +481,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Prospects of Pakistan Economy, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Prospects of Pakistan Economy",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-7"
   },
   {
     "ref": "PRPSTFPT90",
@@ -712,12 +492,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Environmental Challenges and Role of Youth, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Environmental Challenges and Role of Youth",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-8"
   },
   {
     "ref": "PRPSTFPT90",
@@ -728,12 +503,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Industrial Development, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Industrial Development",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-9"
   },
   {
     "ref": "PRPSTFPT90",
@@ -744,12 +514,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture How to Think Design and Execute Research in Emerging Economies, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture How to Think Design and Execute Research in Emerging Economies",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-10"
   },
   {
     "ref": "PRPSTFPT90",
@@ -760,12 +525,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-11",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-11"
   },
   {
     "ref": "PRPSTFPT90",
@@ -776,12 +536,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT90-Section 2-12",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-12"
   },
   {
     "ref": "PRPSTFPT90",
@@ -792,12 +547,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: blank",
     "severity": "High",
-    "record": "PRPSTFPT90-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: the",
-    "organization": "the",
-    "quantity": null
+    "record": "PRPSTFPT90-Section 4-1"
   },
   {
     "ref": "PRPSTFPT89",
@@ -808,12 +558,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT89",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT89"
   },
   {
     "ref": "PRPSTFPT89",
@@ -824,12 +569,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT89",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT89"
   },
   {
     "ref": "PRPSTFPT88",
@@ -840,12 +580,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT88",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT88"
   },
   {
     "ref": "PRPSTFPT88",
@@ -856,12 +591,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT88",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT88"
   },
   {
     "ref": "PRPSTFPT87",
@@ -872,12 +602,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT87",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT87"
   },
   {
     "ref": "PRPSTFPT87",
@@ -888,12 +613,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT87-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Others, How Many: 1, Name Of Organization Planned with: A visit to Haveli Nau Nihal Singh, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-09-16",
-    "organization": "A visit to Haveli Nau Nihal Singh",
-    "quantity": 1
+    "record": "PRPSTFPT87-Section 2-1"
   },
   {
     "ref": "PRPSTFPT86",
@@ -904,12 +624,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT86",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT86"
   },
   {
     "ref": "PRPSTFPT86",
@@ -920,12 +635,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT86",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT86"
   },
   {
     "ref": "PRPSTFPT85",
@@ -936,12 +646,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT85",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT85"
   },
   {
     "ref": "PRPSTFPT85",
@@ -952,12 +657,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT85",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT85"
   },
   {
     "ref": "PRPSTFPT82",
@@ -968,12 +668,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT82",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT82"
   },
   {
     "ref": "PRPSTFPT82",
@@ -984,12 +679,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT82",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT82"
   },
   {
     "ref": "PRPSTFPT81",
@@ -1000,12 +690,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT81",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT81"
   },
   {
     "ref": "PRPSTFPT81",
@@ -1016,12 +701,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT81",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT81"
   },
   {
     "ref": "PRPSTFPT79",
@@ -1032,12 +712,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT79-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Women Development Department, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-09-18",
-    "organization": "Women Development Department",
-    "quantity": 1
+    "record": "PRPSTFPT79-Section 2-1"
   },
   {
     "ref": "PRPSTFPT74",
@@ -1048,12 +723,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT74-Section 2-5",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: IV, How Many: 1",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT74-Section 2-5"
   },
   {
     "ref": "PRPSTFPT74",
@@ -1064,12 +734,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT74-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT74-Section 2-5"
   },
   {
     "ref": "PRPSTFPT73",
@@ -1080,12 +745,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT73-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Research Collaboration, How Many: 1, Name Of Organization Planned with: Benadir Univeristy, Somalia, Planned: No, Scheduled: No, Datev Planned on: 2026-01-13",
-    "organization": "Benadir Univeristy, Somalia",
-    "quantity": 1
+    "record": "PRPSTFPT73-Section 2-1"
   },
   {
     "ref": "PRPSTFPT73",
@@ -1096,12 +756,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT73-Section 2-2",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Others, Name Of Organization Planned with: College of Dentistry, Planned: No, Scheduled: No, Datev Planned on: 2026-01-25, Remarks/Result: Recognizing Student Achievement & Community Services",
-    "organization": "College of Dentistry",
-    "quantity": null
+    "record": "PRPSTFPT73-Section 2-2"
   },
   {
     "ref": "PRPSTFPT73",
@@ -1112,12 +767,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT73-Section 2-7",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Others, Name Of Organization Planned with: Queen Mary University of London (QMUL), United Kingdom, Planned: No, Scheduled: No, Datev Planned on: 2026-04-13, Remarks/Result: Research Collaboration",
-    "organization": "Queen Mary University of London (QMUL), United Kingdom",
-    "quantity": null
+    "record": "PRPSTFPT73-Section 2-7"
   },
   {
     "ref": "PRPSTFPT73",
@@ -1128,12 +778,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT73-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: College of Dentistry, Planned: No, Scheduled: No, Datev Planned on: 2026-06-03",
-    "organization": "College of Dentistry",
-    "quantity": 1
+    "record": "PRPSTFPT73-Section 2-9"
   },
   {
     "ref": "PRPSTFPT73",
@@ -1144,12 +789,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT73-Section 2-13",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, Name Of Organization Planned with: College of Dentistry, Planned: No, Scheduled: No, Remarks/Result: (Throughout the year) Weekly Continuous Professional Development (CPD) Activity",
-    "organization": "College of Dentistry",
-    "quantity": null
+    "record": "PRPSTFPT73-Section 2-13"
   },
   {
     "ref": "PRPSTFPT70",
@@ -1160,12 +800,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT70-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: IV, Name Of Organization Planned with: Punjab Forensic Science Agency team, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-08, Remarks/Result: Students of the UIMLT Department had an informative and educational visit to the Punjab Forensic Science Agency Labs. During the visit, students attended a detailed introductory lecture followed by brief sessions in different laboratories and workstations. The visit provided valuable exposure to modern forensic techniques, laboratory procedures, and practical applications in diagnostic and investigative sciences. It was a great learning opportunity for students to observe professional laboratory practices and interact with experts in the field. Special thanks to the Punjab Forensic Science Agency team for their hospitality and insightful guidance. |",
-    "organization": "Punjab Forensic Science Agency team",
-    "quantity": null
+    "record": "PRPSTFPT70-Section 2-1"
   },
   {
     "ref": "PRPSTFPT67",
@@ -1176,12 +811,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT67",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT67"
   },
   {
     "ref": "PRPSTFPT67",
@@ -1192,12 +822,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT67-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Community Engagement, How Many: 60, Name Of Organization Planned with: SAFE Society, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-22",
-    "organization": "SAFE Society",
-    "quantity": 60
+    "record": "PRPSTFPT67-Section 2-1"
   },
   {
     "ref": "PRPSTFPT67",
@@ -1208,12 +833,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT67-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Community Engagement, How Many: 60, Name Of Organization Planned with: Chaoon Foundation, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-26",
-    "organization": "Chaoon Foundation",
-    "quantity": 60
+    "record": "PRPSTFPT67-Section 2-2"
   },
   {
     "ref": "PRPSTFPT67",
@@ -1224,12 +844,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT67-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Community Engagement, How Many: 50, Name Of Organization Planned with: S.A.F.E Society, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-06-05",
-    "organization": "S.A.F.E Society",
-    "quantity": 50
+    "record": "PRPSTFPT67-Section 2-3"
   },
   {
     "ref": "PRPSTFPT67",
@@ -1240,12 +855,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT67-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture, How Many: 35, Name Of Organization Planned with: Emergency Services Department (Rescue 1122), Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-06-02",
-    "organization": "Emergency Services Department (Rescue 1122)",
-    "quantity": 35
+    "record": "PRPSTFPT67-Section 2-4"
   },
   {
     "ref": "PRPSTFPT67",
@@ -1256,12 +866,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT67-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture, How Many: 40, Name Of Organization Planned with: National Highway Authority, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-23",
-    "organization": "National Highway Authority",
-    "quantity": 40
+    "record": "PRPSTFPT67-Section 2-5"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1272,12 +877,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-02-19, Remarks/Result: Student development Workshop on \"Psychological Assessment and Case Formulation in Children and Adolescents\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-1"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1288,12 +888,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-2",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-02-26, Remarks/Result: Student development CPD Workshop on \"Introduction to Research and Publication Landscape\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-2"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1304,12 +899,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-3",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-03-05, Remarks/Result: student development CPD Workshop on \"Drug Addiction: Understanding, Assessment, and Management with Motivational Interviewing and CBT Strategies\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-3"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1320,12 +910,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-4",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-02, Remarks/Result: student development CPD Workshop on \"Clinical Psychological Report Writing and APA-7 Formatting\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-4"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1336,12 +921,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-5",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: GLIT, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-23, Remarks/Result: student development Guest Lecture on\"Mastering Art of Literature Review in Research\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-5"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1352,12 +932,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-6",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: GLIT, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-29, Remarks/Result: student development Guest lecture on \"Advancing Students’ Practical Competencies in Psychological Assessment\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-6"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1368,12 +943,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-7",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-30, Remarks/Result: student development CPD Workshop on \"Designing Research Proposal\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-7"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1384,12 +954,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-8",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: GLIT, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-05, Remarks/Result: student development Guest Lecture on \"Understanding Hypnotherapy: A Gentle Part to Mental Wellness\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-8"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1400,12 +965,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-9",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-12, Remarks/Result: student development CPD Workshop on \"Addiction: Choice, Disease, or Disorder? Lets Settle the Debate\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-9"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1416,12 +976,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-10",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 2, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-14, Remarks/Result: student development on CPD Workshop on \"Life After a Hard Chapter: Navigating Major Transitions, Building, Resilience and Dream Life\" and CPD Workshop on \"DBT Informed Neuro Art\"",
-    "organization": "",
-    "quantity": 2
+    "record": "PRPSTFPT64-Section 2-10"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1432,12 +987,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-11",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: GLIT, How Many: 2, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-14, Remarks/Result: student development Guest lecture on \"Connected Yet Isolated: Emotional Dysregulation and DBT in Prisons\" and Guest Lecture on \"Critical Role of Psychologist in Justice system\"",
-    "organization": "",
-    "quantity": 2
+    "record": "PRPSTFPT64-Section 2-11"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1448,12 +998,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-12",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: GLIT, How Many: 2, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-21, Remarks/Result: student development Guest Lecture on \"How to Win a Grant Proposal\" and Guest Lecture on \"How to Win a Grant Proposal\"",
-    "organization": "",
-    "quantity": 2
+    "record": "PRPSTFPT64-Section 2-12"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1464,12 +1009,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-13",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-21, Remarks/Result: student development CPD Workshop on \"Acceptance & Commitment Therapy in Clinical Practice\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-13"
   },
   {
     "ref": "PRPSTFPT64",
@@ -1480,12 +1020,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT64-Section 2-14",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: GLIT, How Many: 1, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-05-24, Remarks/Result: student and faculty development Guest lecture on \"Understanding, Preventing and Healing Youth Drug Abuse\"",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT64-Section 2-14"
   },
   {
     "ref": "PRPSTFPT60",
@@ -1496,12 +1031,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT60",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT60"
   },
   {
     "ref": "PRPSTFPT60",
@@ -1512,12 +1042,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT60",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT60"
   },
   {
     "ref": "PRPSTFPT59",
@@ -1528,12 +1053,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT59",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT59"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1544,12 +1064,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT57",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT57"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1560,12 +1075,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT57",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT57"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1576,12 +1086,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT57-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Guest Lecture",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-1"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1592,12 +1097,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Guest Lecture",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-1"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1608,12 +1108,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-1"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1624,12 +1119,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT57-Section 2-2",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Industrial Visit",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-2"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1640,12 +1130,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-2",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Industrial Visit",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-2"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1656,12 +1141,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Industrial Visit",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-2"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1672,12 +1152,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT57-Section 2-3",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: IAB Meeting / Industry Consultation |",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-3"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1688,12 +1163,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-3",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: IAB Meeting / Industry Consultation |",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-3"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1704,12 +1174,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IAB Meeting / Industry Consultation |",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-3"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1720,12 +1185,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT57-Section 2-4",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), Planned: Yes, Scheduled: Yes",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-4"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1736,12 +1196,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-4",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), Planned: Yes, Scheduled: Yes",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-4"
   },
   {
     "ref": "PRPSTFPT57",
@@ -1752,12 +1207,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT57-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), Planned: Yes, Scheduled: Yes",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT57-Section 2-4"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1768,12 +1218,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT50"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1784,12 +1229,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT50"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1800,12 +1240,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Shaukat Khanum Memorial Cancer Hospital, Lahore, Planned: Yes, Datev Planned on: 2026-05-20",
-    "organization": "Shaukat Khanum Memorial Cancer Hospital, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-1"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1816,12 +1251,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: The University of Lahore Teaching Hospital, Lahore, Planned: Yes, Datev Planned on: 2026-04-21",
-    "organization": "The University of Lahore Teaching Hospital, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-2"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1832,12 +1262,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Akhter Saeed Hospital, DHA EME, Canal Road, Lahore, Planned: Yes, Datev Planned on: 2026-05-20",
-    "organization": "Akhter Saeed Hospital, DHA EME, Canal Road, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-3"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1848,12 +1273,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Farooq Hospital, Westwood Colony Lahore, Planned: Yes, Datev Planned on: 2026-05-20",
-    "organization": "Farooq Hospital, Westwood Colony Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-4"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1864,12 +1284,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Luxurious Design & Built (Pvt.) Ltd. Chinar Bag, Lahore, Planned: Yes, Datev Planned on: 2026-05-07",
-    "organization": "Luxurious Design & Built (Pvt.) Ltd. Chinar Bag, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-5"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1880,12 +1295,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Eratech Engineering Company, Khayaban-e-Amin, Lahore, Planned: Yes, Datev Planned on: 2026-05-28",
-    "organization": "Eratech Engineering Company, Khayaban-e-Amin, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-6"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1896,12 +1306,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Lahore Engineering Consultant (LEC), Bahria Orchard, Lahore, Planned: Yes, Datev Planned on: 2026-06-18",
-    "organization": "Lahore Engineering Consultant (LEC), Bahria Orchard, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-7"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1912,12 +1317,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Raza Engineers Construction, Piass College, Kasur, Planned: Yes, Datev Planned on: 2026-06-18",
-    "organization": "Raza Engineers Construction, Piass College, Kasur",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-8"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1928,12 +1328,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Technology Links (Pvt.) Ltd., Gulberg III, Lahore, Planned: Yes, Datev Planned on: 2026-05-22",
-    "organization": "Technology Links (Pvt.) Ltd., Gulberg III, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-9"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1944,12 +1339,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: Lahore Electric Supply Company (LESCO), Rana Town, Lahore, Planned: Yes, Datev Planned on: 2026-05-13",
-    "organization": "Lahore Electric Supply Company (LESCO), Rana Town, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-10"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1960,12 +1350,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-11",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: US Digihub, Gulberg Main Market Lahore, Planned: Yes, Datev Planned on: 2026-04-06",
-    "organization": "US Digihub, Gulberg Main Market Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-11"
   },
   {
     "ref": "PRPSTFPT50",
@@ -1976,12 +1361,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT50-Section 2-12",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IV, How Many: 1, Name Of Organization Planned with: US Mobile, Gulberg III, Lahore, Planned: Yes, Datev Planned on: 2026-04-16 |",
-    "organization": "US Mobile, Gulberg III, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT50-Section 2-12"
   },
   {
     "ref": "PRPSTFPT49",
@@ -1992,12 +1372,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: -1",
     "severity": "High",
-    "record": "PRPSTFPT49-Section 2-2",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Alumni Talk / Mentoring, How Many: -1, Name Of Organization Planned with: University of Okara, Planned: Yes, Scheduled: Yes, Datev Planned on: 2027-05-06, Remarks/Result: uccessfully organized an Alumni Session titled \"Economics in the Age of AI: Future Careers, Skills & Opportunities.\" The session was delivered by alumna Ms. Aniqa Ijaz (University of Okara) and hosted by Dr. Afshan Hamid. Students were mentored on emerging career opportunities, AI applications in economics, required future skills, and higher education pathways. The session strengthened alumni engagement, promoted career awareness, and fostered professional networking between alumni and current students.",
-    "organization": "University of Okara",
-    "quantity": null
+    "record": "PRPSTFPT49-Section 2-2"
   },
   {
     "ref": "PRPSTFPT49",
@@ -2008,12 +1383,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: -1",
     "severity": "High",
-    "record": "PRPSTFPT49-Section 2-3",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Alumni Talk / Mentoring, How Many: -1, Name Of Organization Planned with: University of Okara, Planned: Yes, Scheduled: Yes, Datev Planned on: 2027-05-06, Remarks/Result: uccessfully organized an Alumni Session titled \"Economics in the Age of AI: Future Careers, Skills & Opportunities.\" The session was delivered by alumna Ms. Aniqa Ijaz (University of Okara) and hosted by Dr. Afshan Hamid. Students were mentored on emerging career opportunities, AI applications in economics, required future skills, and higher education pathways. The session strengthened alumni engagement, promoted career awareness, and fostered professional networking between alumni and current students.",
-    "organization": "University of Okara",
-    "quantity": null
+    "record": "PRPSTFPT49-Section 2-3"
   },
   {
     "ref": "PRPSTFPT49",
@@ -2024,12 +1394,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT49-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: Forman Christian College (A Chartered University), University of Karachi, SOAS University of London, University of Oxford, Charter Cities Institute (CCI), Africa Urban Lab (AUL), Zanzibar Research Centre for Socio-Economic and Policy Analysis (ZRCP), Parsons Corporation, Royal Commission for Yanbu (Saudi Arabia), Urban Unit (Punjab Board of Investment & Trade), Planned: Yes, Scheduled: Yes",
-    "organization": "Forman Christian College (A Chartered University), University of Karachi, SOAS University of London, University of Oxford, Charter Cities Institute (CCI), Africa Urban Lab (AUL), Zanzibar Research Centre for Socio-Economic and Policy Analysis (ZRCP), Parsons Corporation, Royal Commission for Yanbu (Saudi Arabia), Urban Unit (Punjab Board of Investment & Trade)",
-    "quantity": 1
+    "record": "PRPSTFPT49-Section 2-4"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2040,12 +1405,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT48"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2056,12 +1416,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT48"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2072,12 +1427,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: GC College Railway Road, Lahore, Planned: Yes, Datev Planned on: 2026-02-26",
-    "organization": "GC College Railway Road, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-1"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2088,12 +1438,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-2",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Datev Planned on: 2026-02-10",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-2"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2104,12 +1449,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Planned: Yes, Datev Planned on: 2026-02-10",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-2"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2120,12 +1460,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: STC Faisalabad, Planned: Yes, Datev Planned on: 2026-04-23",
-    "organization": "STC Faisalabad",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-3"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2136,12 +1471,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: GCT Samanabad, Lahore, Planned: Yes, Datev Planned on: 2026-04-22",
-    "organization": "GCT Samanabad, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-4"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2152,12 +1482,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: GCT Pindi Bhattian, Planned: Yes, Datev Planned on: 2026-04-22",
-    "organization": "GCT Pindi Bhattian",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-5"
   },
   {
     "ref": "PRPSTFPT48",
@@ -2168,12 +1493,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT48-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: GCT Sangla Hill, Planned: Yes, Datev Planned on: 2026-05-14",
-    "organization": "GCT Sangla Hill",
-    "quantity": 1
+    "record": "PRPSTFPT48-Section 2-6"
   },
   {
     "ref": "PRPSTFPT47",
@@ -2184,12 +1504,7 @@
     "code": "MISSING_DEPARTMENT",
     "detail": "Department missing",
     "severity": "High",
-    "record": "PRPSTFPT47",
-    "category": "Missing metadata",
-    "recommended_action": "Confirm department from source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT47"
   },
   {
     "ref": "PRPSTFPT47",
@@ -2200,12 +1515,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT47",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT47"
   },
   {
     "ref": "PRPSTFPT47",
@@ -2216,12 +1526,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT47",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT47"
   },
   {
     "ref": "PRPSTFPT46",
@@ -2232,12 +1537,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT46",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT46"
   },
   {
     "ref": "PRPSTFPT46",
@@ -2248,12 +1548,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT46-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Internship/Placement, How Many: 5 |",
-    "organization": "",
-    "quantity": 5
+    "record": "PRPSTFPT46-Section 2-1"
   },
   {
     "ref": "PRPSTFPT46",
@@ -2264,12 +1559,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT46-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: 5 |",
-    "organization": "",
-    "quantity": 5
+    "record": "PRPSTFPT46-Section 2-1"
   },
   {
     "ref": "PRPSTFPT46",
@@ -2280,12 +1570,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: Multiple",
     "severity": "Review",
-    "record": "PRPSTFPT46-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: Multiple, Sector: Public and private, Number Of students: 102, Duration: 4 to 6 weeks, Type: Intership, Mode: Physical, Evidence: files::6a604efa01357.xlsx |",
-    "organization": "Multiple",
-    "quantity": 102
+    "record": "PRPSTFPT46-Section 4-1"
   },
   {
     "ref": "PRPSTFPT46",
@@ -2296,12 +1581,7 @@
     "code": "PLACEHOLDER_ORGANIZATION",
     "detail": "Placeholder name: Multiple",
     "severity": "High",
-    "record": "PRPSTFPT46-Section 4-1",
-    "category": "Placeholder",
-    "recommended_action": "Replace placeholder with actual organization or mark not provided",
-    "original_source": "Company: Multiple, Sector: Public and private, Number Of students: 102, Duration: 4 to 6 weeks, Type: Intership, Mode: Physical, Evidence: files::6a604efa01357.xlsx |",
-    "organization": "Multiple",
-    "quantity": 102
+    "record": "PRPSTFPT46-Section 4-1"
   },
   {
     "ref": "PRPSTFPT45",
@@ -2312,12 +1592,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT45",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT45"
   },
   {
     "ref": "PRPSTFPT45",
@@ -2328,12 +1603,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT45",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT45"
   },
   {
     "ref": "PRPSTFPT45",
@@ -2344,12 +1614,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT45-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "MOU Type: Industry",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT45-Section 3-1"
   },
   {
     "ref": "PRPSTFPT40",
@@ -2360,12 +1625,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT40-Section 2-12",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture, How Many: 1, Name Of Organization Planned with: College and University, Planned: Yes, Scheduled: Yes, Datev Planned on: 2025-12-16",
-    "organization": "College and University",
-    "quantity": 1
+    "record": "PRPSTFPT40-Section 2-12"
   },
   {
     "ref": "PRPSTFPT40",
@@ -2376,12 +1636,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT40-Section 2-26",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Research Collaboration, Name Of Organization Planned with: UAF, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-03-05, Remarks/Result: Joint research collaborations for undergraduate and post graduate students  and academia partners",
-    "organization": "UAF",
-    "quantity": null
+    "record": "PRPSTFPT40-Section 2-26"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2392,12 +1647,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT39"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2408,12 +1658,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT39"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2424,12 +1669,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: 2 Space, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "2 Space",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-1"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2440,12 +1680,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: AB Technologies, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "AB Technologies",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-2"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2456,12 +1691,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Ahmaar (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Ahmaar (Pvt.) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-3"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2472,12 +1702,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 5, Name Of Organization Planned with: Async Digital, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Async Digital",
-    "quantity": 5
+    "record": "PRPSTFPT39-Section 2-4"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2488,12 +1713,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Async Digital Software House, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Async Digital Software House",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-5"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2504,12 +1724,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 2, Name Of Organization Planned with: AWS Tech, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "AWS Tech",
-    "quantity": 2
+    "record": "PRPSTFPT39-Section 2-6"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2520,12 +1735,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Bytewise Technologies, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Bytewise Technologies",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-7"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2536,12 +1746,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Codexiom, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Codexiom",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-8"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2552,12 +1757,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Corvit Systems, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Corvit Systems",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-9"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2568,12 +1768,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Devsinc, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Devsinc",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-10"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2584,12 +1779,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-11",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Dgware Solutions, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Dgware Solutions",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-11"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2600,12 +1790,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-12",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Ebryx (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Ebryx (Pvt.) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-12"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2616,12 +1801,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-13",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: E-Care Solution, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "E-Care Solution",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-13"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2632,12 +1812,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-14",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Eyra Tech, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Eyra Tech",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-14"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2648,12 +1823,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-15",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Fermi Soft, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Fermi Soft",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-15"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2664,12 +1834,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-16",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Flicken, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Flicken",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-16"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2680,12 +1845,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-17",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: GulfBase, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "GulfBase",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-17"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2696,12 +1856,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-18",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Hoster99 (Web Hosting Company), Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Hoster99 (Web Hosting Company)",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-18"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2712,12 +1867,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-19",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Ibex, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Ibex",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-19"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2728,12 +1878,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-20",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: IIFA Tech, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "IIFA Tech",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-20"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2744,12 +1889,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-21",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Infinity Wave, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Infinity Wave",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-21"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2760,12 +1900,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-22",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Innosoft Works (SMC-Private) Ltd., Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Innosoft Works (SMC-Private) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-22"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2776,12 +1911,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-23",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Invosage, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Invosage",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-23"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2792,12 +1922,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-24",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Kashf Foundation, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Kashf Foundation",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-24"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2808,12 +1933,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-25",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Kings Solutions, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Kings Solutions",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-25"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2824,12 +1944,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-26",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Nexrupt technologies pvt ltd, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Nexrupt technologies pvt ltd",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-26"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2840,12 +1955,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-27",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: OMNI Soft, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "OMNI Soft",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-27"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2856,12 +1966,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-28",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Prismware Technologies, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Prismware Technologies",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-28"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2872,12 +1977,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-29",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 5, Name Of Organization Planned with: Qubit Dynamics, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Qubit Dynamics",
-    "quantity": 5
+    "record": "PRPSTFPT39-Section 2-29"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2888,12 +1988,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-30",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Rstack Labs, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Rstack Labs",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-30"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2904,12 +1999,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-31",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Strategic System, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Strategic System",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-31"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2920,12 +2010,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-32",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Studio 93, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Studio 93",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-32"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2936,12 +2021,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-33",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Tech Lynx Overdrive, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Tech Lynx Overdrive",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-33"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2952,12 +2032,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-34",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Thingtrax, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Thingtrax",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-34"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2968,12 +2043,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-35",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Tx Labs, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Tx Labs",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-35"
   },
   {
     "ref": "PRPSTFPT39",
@@ -2984,12 +2054,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-36",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 5, Name Of Organization Planned with: University of Engineering & Technology (UET), Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "University of Engineering & Technology (UET)",
-    "quantity": 5
+    "record": "PRPSTFPT39-Section 2-36"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3000,12 +2065,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-37",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Upvave, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Upvave",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-37"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3016,12 +2076,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-38",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: US Mobile, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "US Mobile",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-38"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3032,12 +2087,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-39",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Wix Patriots, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Wix Patriots",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-39"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3048,12 +2098,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-40",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Wordx BPO, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Wordx BPO",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-40"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3064,12 +2109,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-41",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: IP, How Many: 1, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-41"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3080,12 +2120,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-41",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-41"
   },
   {
     "ref": "PRPSTFPT39",
@@ -3096,12 +2131,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT39-Section 2-42",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Z Space, Planned: Yes, Datev Planned on: 2026-02-24",
-    "organization": "Z Space",
-    "quantity": 1
+    "record": "PRPSTFPT39-Section 2-42"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3112,12 +2142,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT38"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3128,12 +2153,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT38"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3144,12 +2164,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 2, Name Of Organization Planned with: Azhar Engineering and Power Generation (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Azhar Engineering and Power Generation (Pvt.) Ltd.",
-    "quantity": 2
+    "record": "PRPSTFPT38-Section 2-1"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3160,12 +2175,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: M.S.B Engineering Services, Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "M.S.B Engineering Services",
-    "quantity": 1
+    "record": "PRPSTFPT38-Section 2-2"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3176,12 +2186,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 3, Name Of Organization Planned with: Machine Zone (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Machine Zone (Pvt.) Ltd.",
-    "quantity": 3
+    "record": "PRPSTFPT38-Section 2-3"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3192,12 +2197,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: NIMIR Group of Companies, Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "NIMIR Group of Companies",
-    "quantity": 1
+    "record": "PRPSTFPT38-Section 2-4"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3208,12 +2208,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Nishat Power Plant, Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Nishat Power Plant",
-    "quantity": 1
+    "record": "PRPSTFPT38-Section 2-5"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3224,12 +2219,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 3, Name Of Organization Planned with: Project Cell (HVAC), The University of Lahore, Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Project Cell (HVAC), The University of Lahore",
-    "quantity": 3
+    "record": "PRPSTFPT38-Section 2-6"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3240,12 +2230,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 2, Name Of Organization Planned with: S.T Engineering Services (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "S.T Engineering Services (Pvt.) Ltd.",
-    "quantity": 2
+    "record": "PRPSTFPT38-Section 2-7"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3256,12 +2241,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Saab Moulded Industry (MDK), Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Saab Moulded Industry (MDK)",
-    "quantity": 1
+    "record": "PRPSTFPT38-Section 2-8"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3272,12 +2252,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Toyota HN Motors, Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Toyota HN Motors",
-    "quantity": 1
+    "record": "PRPSTFPT38-Section 2-9"
   },
   {
     "ref": "PRPSTFPT38",
@@ -3288,12 +2263,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT38-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Xida Mould, Planned: Yes, Datev Planned on: 2026-02-23",
-    "organization": "Xida Mould",
-    "quantity": 1
+    "record": "PRPSTFPT38-Section 2-10"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3304,12 +2274,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT37"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3320,12 +2285,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT37"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3336,12 +2296,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Akhter Saeed Hospital, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Akhter Saeed Hospital",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-1"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3352,12 +2307,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Alam Medix Company, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Alam Medix Company",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-2"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3368,12 +2318,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Amarant Medical Technologies, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Amarant Medical Technologies",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-3"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3384,12 +2329,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Econ Whizz, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Econ Whizz",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-4"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3400,12 +2340,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Farooq Hospital, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Farooq Hospital",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-5"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3416,12 +2351,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Jinnah Hospital Lahore, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Jinnah Hospital Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-6"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3432,12 +2362,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: RM Scientific Lab, UOL, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "RM Scientific Lab, UOL",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-7"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3448,12 +2373,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Saleem Memorial Hospital, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Saleem Memorial Hospital",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-8"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3464,12 +2384,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 4, Name Of Organization Planned with: Shaukat Khanum Memorial Cancer Hospital, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Shaukat Khanum Memorial Cancer Hospital",
-    "quantity": 4
+    "record": "PRPSTFPT37-Section 2-9"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3480,12 +2395,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Shifa International Hospital, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "Shifa International Hospital",
-    "quantity": 1
+    "record": "PRPSTFPT37-Section 2-10"
   },
   {
     "ref": "PRPSTFPT37",
@@ -3496,12 +2406,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT37-Section 2-11",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 5, Name Of Organization Planned with: University of Lahore Teaching Hospital, Planned: Yes, Datev Planned on: 2026-02-22",
-    "organization": "University of Lahore Teaching Hospital",
-    "quantity": 5
+    "record": "PRPSTFPT37-Section 2-11"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3512,12 +2417,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT36"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3528,12 +2428,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT36"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3544,12 +2439,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Al Riaz Civil Engineering Services (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Al Riaz Civil Engineering Services (Pvt.) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-1"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3560,12 +2450,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Al Shabbir Developers, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Al Shabbir Developers",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-2"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3576,12 +2461,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Al Shabbir Developers, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Al Shabbir Developers",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-3"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3592,12 +2472,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: CCECC, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "CCECC",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-4"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3608,12 +2483,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Eratech Engineering Company, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Eratech Engineering Company",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-5"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3624,12 +2494,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 3, Name Of Organization Planned with: Lahore Engineering Consultant (LEC), Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Lahore Engineering Consultant (LEC)",
-    "quantity": 3
+    "record": "PRPSTFPT36-Section 2-6"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3640,12 +2505,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Luxurious Design & Built (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Luxurious Design & Built (Pvt.) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-7"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3656,12 +2516,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: MS Builder and Construction Co., Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "MS Builder and Construction Co.",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-8"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3672,12 +2527,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-9",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Nazim & Qasim (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Nazim & Qasim (Pvt.) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-9"
   },
   {
     "ref": "PRPSTFPT36",
@@ -3688,12 +2538,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT36-Section 2-10",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Raza Engineers Construction, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Raza Engineers Construction",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-10"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3704,12 +2549,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT35"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3720,12 +2560,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT35"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3736,12 +2571,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 2, Name Of Organization Planned with: Durable Technologies, Planned: Yes, Datev Planned on: 2026-02-18",
-    "organization": "Durable Technologies",
-    "quantity": 2
+    "record": "PRPSTFPT35-Section 2-1"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3752,12 +2582,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Electros Energies, Planned: Yes, Datev Planned on: 2026-02-18",
-    "organization": "Electros Energies",
-    "quantity": 1
+    "record": "PRPSTFPT35-Section 2-2"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3768,12 +2593,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 4, Name Of Organization Planned with: Lahore Electric Supply Company (LESCO), Planned: Yes, Datev Planned on: 2026-02-18",
-    "organization": "Lahore Electric Supply Company (LESCO)",
-    "quantity": 4
+    "record": "PRPSTFPT35-Section 2-3"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3784,12 +2604,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Technology Links (Pvt.) Ltd., Planned: Yes, Datev Planned on: 2026-02-18",
-    "organization": "Technology Links (Pvt.) Ltd.",
-    "quantity": 1
+    "record": "PRPSTFPT35-Section 2-4"
   },
   {
     "ref": "PRPSTFPT35",
@@ -3800,12 +2615,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT35-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IP, How Many: 2, Name Of Organization Planned with: Transfopower  Industries, Planned: Yes, Datev Planned on: 2026-02-18",
-    "organization": "Transfopower  Industries",
-    "quantity": 2
+    "record": "PRPSTFPT35-Section 2-5"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3816,12 +2626,7 @@
     "code": "INCONSISTENT_FLAGS",
     "detail": "Planned = No; Scheduled = Yes",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-1",
-    "category": "Conflicting fields",
-    "recommended_action": "Verify Planned / Scheduled source values",
-    "original_source": "Activity Type: Community Engagement, How Many: 1, Name Of Organization Planned with: National College of Arts, Lahore, Planned: No, Scheduled: Yes, Remarks/Result: Literary Outreach & Academic Networking",
-    "organization": "National College of Arts, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT34-Section 2-1"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3832,12 +2637,7 @@
     "code": "INCONSISTENT_FLAGS",
     "detail": "Planned = No; Scheduled = Yes",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-2",
-    "category": "Conflicting fields",
-    "recommended_action": "Verify Planned / Scheduled source values",
-    "original_source": "Activity Type: Community Engagement, Name Of Organization Planned with: Firk-e- Iqbal Society, UOL, Planned: No, Scheduled: Yes, Remarks/Result: Literary Outreach & Community Engagement, How Many: 1",
-    "organization": "Firk-e- Iqbal Society, UOL",
-    "quantity": 1
+    "record": "PRPSTFPT34-Section 2-2"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3848,12 +2648,7 @@
     "code": "INCONSISTENT_FLAGS",
     "detail": "Planned = No; Scheduled = Yes",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-3",
-    "category": "Conflicting fields",
-    "recommended_action": "Verify Planned / Scheduled source values",
-    "original_source": "Activity Type: Community Engagement, How Many: 1, Name Of Organization Planned with: UOL Library, Office of Student Affairs, Planned: No, Scheduled: Yes, Remarks/Result: Reading Culture Promotion & Student Recognition",
-    "organization": "UOL Library, Office of Student Affairs",
-    "quantity": 1
+    "record": "PRPSTFPT34-Section 2-3"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3864,12 +2659,7 @@
     "code": "INCONSISTENT_FLAGS",
     "detail": "Planned = No; Scheduled = Yes",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-5",
-    "category": "Conflicting fields",
-    "recommended_action": "Verify Planned / Scheduled source values",
-    "original_source": "Activity Type: Research Collaboration, How Many: 1, Name Of Organization Planned with: World Urdu Association, New Delhi, Planned: No, Scheduled: Yes, Remarks/Result: International Research Collaboration",
-    "organization": "World Urdu Association, New Delhi",
-    "quantity": 1
+    "record": "PRPSTFPT34-Section 2-5"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3880,12 +2670,7 @@
     "code": "INCONSISTENT_FLAGS",
     "detail": "Planned = No; Scheduled = Yes",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-6",
-    "category": "Conflicting fields",
-    "recommended_action": "Verify Planned / Scheduled source values",
-    "original_source": "Activity Type: Research Collaboration, How Many: 1, Name Of Organization Planned with: SZABIST, Karachi Campus., Planned: No, Scheduled: Yes, Remarks/Result: Global Research Engagement",
-    "organization": "SZABIST, Karachi Campus.",
-    "quantity": 1
+    "record": "PRPSTFPT34-Section 2-6"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3896,12 +2681,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: blank",
     "severity": "High",
-    "record": "PRPSTFPT34-Section 2-8",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Research Collaboration",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT34-Section 2-8"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3912,12 +2692,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-8",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Research Collaboration",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT34-Section 2-8"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3928,12 +2703,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 2-8",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Research Collaboration",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT34-Section 2-8"
   },
   {
     "ref": "PRPSTFPT34",
@@ -3944,12 +2714,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: N/A",
     "severity": "Review",
-    "record": "PRPSTFPT34-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Partner Institution: N/A, Key Activities: N/A",
-    "organization": "N/A",
-    "quantity": null
+    "record": "PRPSTFPT34-Section 3-1"
   },
   {
     "ref": "PRPSTFPT30",
@@ -3960,12 +2725,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: 1, Name Of Organization Planned with: Govt. Girls High School Bhubtian, Lahore, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-16",
-    "organization": "Govt. Girls High School Bhubtian, Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-1"
   },
   {
     "ref": "PRPSTFPT30",
@@ -3976,12 +2736,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: 1, Name Of Organization Planned with: Govt. High School Sher Shah Colony, Lahore., Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-16",
-    "organization": "Govt. High School Sher Shah Colony, Lahore.",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-2"
   },
   {
     "ref": "PRPSTFPT30",
@@ -3992,12 +2747,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: 1, Name Of Organization Planned with: Govt. Girls Elementary School Sher Shah Colony, Lahore., Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-16",
-    "organization": "Govt. Girls Elementary School Sher Shah Colony, Lahore.",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-3"
   },
   {
     "ref": "PRPSTFPT30",
@@ -4008,12 +2758,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-4",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: 1, Name Of Organization Planned with: Hamza Foundation, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-16",
-    "organization": "Hamza Foundation",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-4"
   },
   {
     "ref": "PRPSTFPT30",
@@ -4024,12 +2769,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-5",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: 1, Name Of Organization Planned with: Child Welfare Center, University of the Punjab, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-16",
-    "organization": "Child Welfare Center, University of the Punjab",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-5"
   },
   {
     "ref": "PRPSTFPT30",
@@ -4040,12 +2780,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-6",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Seminar / Conference / Workshop, How Many: 1, Name Of Organization Planned with: The University of Lahore, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-04-25",
-    "organization": "The University of Lahore",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-6"
   },
   {
     "ref": "PRPSTFPT30",
@@ -4056,12 +2791,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT30-Section 2-7",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IAB Meeting / Industry Consultation, How Many: 1, Name Of Organization Planned with: Centre for Inclusive Education and Research, Planned: Yes, Scheduled: Yes, Datev Planned on: 2025-11-10 |",
-    "organization": "Centre for Inclusive Education and Research",
-    "quantity": 1
+    "record": "PRPSTFPT30-Section 2-7"
   },
   {
     "ref": "PRPSTFPT26",
@@ -4072,12 +2802,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT26",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT26"
   },
   {
     "ref": "PRPSTFPT26",
@@ -4088,12 +2813,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT26",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT26"
   },
   {
     "ref": "PRPSTFPT26",
@@ -4104,12 +2824,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT26-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: IAB Meeting / Industry Consultation, How Many: 1, Name Of Organization Planned with: Different industries representers, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-06-30, Remarks/Result: null",
-    "organization": "Different industries representers",
-    "quantity": 1
+    "record": "PRPSTFPT26-Section 2-1"
   },
   {
     "ref": "PRPSTFPT26",
@@ -4120,12 +2835,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT26-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), How Many: 1, Name Of Organization Planned with: Waleed Tech (Pvt) Ltd, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-06-19, Remarks/Result: null",
-    "organization": "Waleed Tech (Pvt) Ltd",
-    "quantity": 1
+    "record": "PRPSTFPT26-Section 2-2"
   },
   {
     "ref": "PRPSTFPT26",
@@ -4136,12 +2846,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT26-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT26-Section 4-1"
   },
   {
     "ref": "PRPSTFPT26",
@@ -4152,12 +2857,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT26-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT26-Section 4-1"
   },
   {
     "ref": "PRPSTFPT25",
@@ -4168,12 +2868,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT25-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT25-Section 2-1"
   },
   {
     "ref": "PRPSTFPT25",
@@ -4184,12 +2879,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT25-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT25-Section 2-1"
   },
   {
     "ref": "PRPSTFPT25",
@@ -4200,12 +2890,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT25-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT25-Section 2-1"
   },
   {
     "ref": "PRPSTFPT25",
@@ -4216,12 +2901,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT25-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Partner Institution: null, Country: null, MOU Type: null, Key Activities: null, Status: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT25-Section 3-1"
   },
   {
     "ref": "PRPSTFPT25",
@@ -4232,12 +2912,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT25-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT25-Section 4-1"
   },
   {
     "ref": "PRPSTFPT25",
@@ -4248,12 +2923,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT25-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT25-Section 4-1"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4264,12 +2934,7 @@
     "code": "MISSING_DEPARTMENT",
     "detail": "Department missing",
     "severity": "High",
-    "record": "PRPSTFPT16",
-    "category": "Missing metadata",
-    "recommended_action": "Confirm department from source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT16"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4280,12 +2945,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT16",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT16"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4296,12 +2956,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT16",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT16"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4312,12 +2967,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT16-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT16-Section 2-1"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4328,12 +2978,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT16-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT16-Section 2-1"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4344,12 +2989,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT16-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT16-Section 2-1"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4360,12 +3000,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT16-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Partner Institution: null, Country: null, MOU Type: null, Key Activities: null, Status: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT16-Section 3-1"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4376,12 +3011,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT16-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT16-Section 4-1"
   },
   {
     "ref": "PRPSTFPT16",
@@ -4392,12 +3022,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT16-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT16-Section 4-1"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4408,12 +3033,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT15",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT15"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4424,12 +3044,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT15",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT15"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4440,12 +3055,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT15-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-1"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4456,12 +3066,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-1"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4472,12 +3077,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: MoU Signing (Memorandum of Understanding), How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-1"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4488,12 +3088,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT15-Section 2-2",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Internship/Placement, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-2"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4504,12 +3099,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 2-2",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Internship/Placement, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-2"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4520,12 +3110,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 2-2",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Internship/Placement, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-2"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4536,12 +3121,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT15-Section 2-3",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: Guest Lecture, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-3"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4552,12 +3132,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 2-3",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: Guest Lecture, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-3"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4568,12 +3143,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 2-3",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Guest Lecture, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 2-3"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4584,12 +3154,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Partner Institution: null, Country: null, MOU Type: null, Key Activities: null, Status: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 3-1"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4600,12 +3165,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT15-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 4-1"
   },
   {
     "ref": "PRPSTFPT15",
@@ -4616,12 +3176,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT15-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT15-Section 4-1"
   },
   {
     "ref": "PRPSTFPT13",
@@ -4632,12 +3187,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT13-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: Alumni Talk / Mentoring, How Many: 6, Name Of Organization Planned with: The University of Lahore, Planned: Yes, Scheduled: Yes, Datev Planned on: 2026-08-14, Remarks/Result: ---",
-    "organization": "The University of Lahore",
-    "quantity": 6
+    "record": "PRPSTFPT13-Section 2-1"
   },
   {
     "ref": "PRPSTFPT13",
@@ -4648,12 +3198,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT13-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Partner Institution: null, Country: null, MOU Type: null, Key Activities: null, Status: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT13-Section 3-1"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4664,12 +3209,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT10",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT10"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4680,12 +3220,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT10",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT10"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4696,12 +3231,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT10-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT10-Section 2-1"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4712,12 +3242,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT10-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT10-Section 2-1"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4728,12 +3253,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT10-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "Activity Type: null, How Many: null, Name Of Organization Planned with: null, Planned: null, Scheduled: null, Datev Planned on: null, Remarks/Result: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT10-Section 2-1"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4744,12 +3264,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT10-Section 3-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Partner Institution: null, Country: null, MOU Type: null, Key Activities: null, Status: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT10-Section 3-1"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4760,12 +3275,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT10-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT10-Section 4-1"
   },
   {
     "ref": "PRPSTFPT10",
@@ -4776,12 +3286,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT10-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, Duration: null, Type: null, Mode: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT10-Section 4-1"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4792,12 +3297,7 @@
     "code": "MISSING_DEPARTMENT",
     "detail": "Department missing",
     "severity": "High",
-    "record": "PRPSTFPT7",
-    "category": "Missing metadata",
-    "recommended_action": "Confirm department from source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT7"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4808,12 +3308,7 @@
     "code": "MISSING_MONTH",
     "detail": "Reporting month is blank",
     "severity": "Review",
-    "record": "PRPSTFPT7",
-    "category": "Missing metadata",
-    "recommended_action": "Verify reporting month or infer semester only from dated source",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT7"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4824,12 +3319,7 @@
     "code": "MISSING_DESIGNATION",
     "detail": "Designation is blank",
     "severity": "Review",
-    "record": "PRPSTFPT7",
-    "category": "Missing metadata",
-    "recommended_action": "Complete designation in submission",
-    "original_source": "",
-    "organization": "",
-    "quantity": ""
+    "record": "PRPSTFPT7"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4840,12 +3330,7 @@
     "code": "MISSING_OR_INVALID_QUANTITY",
     "detail": "How Many: null",
     "severity": "High",
-    "record": "PRPSTFPT7-Section 2-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Check original How Many field; do not assume zero",
-    "original_source": "checklist vqmy3r: , How Many: null, textarea c28h0g: null",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT7-Section 2-1"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4856,12 +3341,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT7-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "checklist vqmy3r: , How Many: null, textarea c28h0g: null",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT7-Section 2-1"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4872,12 +3352,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT7-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "checklist vqmy3r: , How Many: null, textarea c28h0g: null",
-    "organization": "",
-    "quantity": null
+    "record": "PRPSTFPT7-Section 2-1"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4888,12 +3363,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT7-Section 4-1",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, textfield 7f2kh: null, Duration: null, textfield 99poj: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT7-Section 4-1"
   },
   {
     "ref": "PRPSTFPT7",
@@ -4904,12 +3374,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT7-Section 4-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, textfield 7f2kh: null, Duration: null, textfield 99poj: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT7-Section 4-1"
   },
   {
     "ref": "PRPSTFPT6",
@@ -4920,12 +3385,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: blank",
     "severity": "Review",
-    "record": "PRPSTFPT6-Section 2-1",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "checklist vqmy3r: MOU, How Many: 3, textarea c28h0g: null | checklist vqmy3r: IP, How Many: 7, textarea c28h0g: null | checklist vqmy3r: IV, How Many: 1, textarea c28h0g: null | checklist vqmy3r: GLIT, How Many: 5, textarea c28h0g: null",
-    "organization": "",
-    "quantity": 3
+    "record": "PRPSTFPT6-Section 2-1"
   },
   {
     "ref": "PRPSTFPT6",
@@ -4936,12 +3396,7 @@
     "code": "MISSING_RESULT",
     "detail": "Remarks / Result is blank",
     "severity": "Review",
-    "record": "PRPSTFPT6-Section 2-1",
-    "category": "Incomplete evidence",
-    "recommended_action": "Review outcome or add result; blank is not proof of failure",
-    "original_source": "checklist vqmy3r: MOU, How Many: 3, textarea c28h0g: null | checklist vqmy3r: IP, How Many: 7, textarea c28h0g: null | checklist vqmy3r: IV, How Many: 1, textarea c28h0g: null | checklist vqmy3r: GLIT, How Many: 5, textarea c28h0g: null",
-    "organization": "",
-    "quantity": 3
+    "record": "PRPSTFPT6-Section 2-1"
   },
   {
     "ref": "PRPSTFPT6",
@@ -4952,12 +3407,7 @@
     "code": "MISSING_STUDENT_COUNT",
     "detail": "Number Of students: null",
     "severity": "High",
-    "record": "PRPSTFPT6-Section 4-2",
-    "category": "Invalid / missing count",
-    "recommended_action": "Verify Section 4 student total against evidence",
-    "original_source": "Company: null, Sector: null, Number Of students: null, textfield 7f2kh: null, Duration: null, textfield 99poj: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT6-Section 4-2"
   },
   {
     "ref": "PRPSTFPT6",
@@ -4968,12 +3418,7 @@
     "code": "MISSING_OR_GENERIC_ORGANIZATION",
     "detail": "Organization: null",
     "severity": "Review",
-    "record": "PRPSTFPT6-Section 4-2",
-    "category": "Incomplete / generic",
-    "recommended_action": "Enter named organization if applicable; Multiple may be valid with supporting attachment",
-    "original_source": "Company: null, Sector: null, Number Of students: null, textfield 7f2kh: null, Duration: null, textfield 99poj: null",
-    "organization": "null",
-    "quantity": null
+    "record": "PRPSTFPT6-Section 4-2"
   },
   {
     "ref": "PRPSTFPT92",
@@ -4984,12 +3429,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT92-Section 2-11",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-11"
   },
   {
     "ref": "PRPSTFPT92",
@@ -5000,12 +3440,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT92-Section 2-12",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT92-Section 2-12"
   },
   {
     "ref": "PRPSTFPT91",
@@ -5016,12 +3451,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT91-Section 2-11",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-11"
   },
   {
     "ref": "PRPSTFPT91",
@@ -5032,12 +3462,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT91-Section 2-12",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT91-Section 2-12"
   },
   {
     "ref": "PRPSTFPT90",
@@ -5048,12 +3473,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT90-Section 2-11",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-11"
   },
   {
     "ref": "PRPSTFPT90",
@@ -5064,12 +3484,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT90-Section 2-12",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: GLIT, How Many: 1, Name Of Organization Planned with: Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting, Planned: Yes, Scheduled: Yes",
-    "organization": "Guest Lecture Understanding Time Series From RealWorld Data to Economic Forecasting",
-    "quantity": 1
+    "record": "PRPSTFPT90-Section 2-12"
   },
   {
     "ref": "PRPSTFPT49",
@@ -5080,12 +3495,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT49-Section 2-2",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: Alumni Talk / Mentoring, How Many: -1, Name Of Organization Planned with: University of Okara, Planned: Yes, Scheduled: Yes, Datev Planned on: 2027-05-06, Remarks/Result: uccessfully organized an Alumni Session titled \"Economics in the Age of AI: Future Careers, Skills & Opportunities.\" The session was delivered by alumna Ms. Aniqa Ijaz (University of Okara) and hosted by Dr. Afshan Hamid. Students were mentored on emerging career opportunities, AI applications in economics, required future skills, and higher education pathways. The session strengthened alumni engagement, promoted career awareness, and fostered professional networking between alumni and current students.",
-    "organization": "University of Okara",
-    "quantity": null
+    "record": "PRPSTFPT49-Section 2-2"
   },
   {
     "ref": "PRPSTFPT49",
@@ -5096,12 +3506,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT49-Section 2-3",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: Alumni Talk / Mentoring, How Many: -1, Name Of Organization Planned with: University of Okara, Planned: Yes, Scheduled: Yes, Datev Planned on: 2027-05-06, Remarks/Result: uccessfully organized an Alumni Session titled \"Economics in the Age of AI: Future Careers, Skills & Opportunities.\" The session was delivered by alumna Ms. Aniqa Ijaz (University of Okara) and hosted by Dr. Afshan Hamid. Students were mentored on emerging career opportunities, AI applications in economics, required future skills, and higher education pathways. The session strengthened alumni engagement, promoted career awareness, and fostered professional networking between alumni and current students.",
-    "organization": "University of Okara",
-    "quantity": null
+    "record": "PRPSTFPT49-Section 2-3"
   },
   {
     "ref": "PRPSTFPT36",
@@ -5112,12 +3517,7 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT36-Section 2-2",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Al Shabbir Developers, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Al Shabbir Developers",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-2"
   },
   {
     "ref": "PRPSTFPT36",
@@ -5128,11 +3528,28 @@
     "code": "POSSIBLE_DUPLICATE",
     "detail": "2 records share submission, activity, organization, quantity and remarks. Verify dates / evidence before removal",
     "severity": "High",
-    "record": "PRPSTFPT36-Section 2-3",
-    "category": "Potential duplicate",
-    "recommended_action": "Compare submission, original description, dates and evidence before deletion",
-    "original_source": "Activity Type: IP, How Many: 1, Name Of Organization Planned with: Al Shabbir Developers, Planned: Yes, Datev Planned on: 2026-02-19",
-    "organization": "Al Shabbir Developers",
-    "quantity": 1
+    "record": "PRPSTFPT36-Section 2-3"
+  },
+  {
+    "ref": "PRPSTFPT55",
+    "faculty": "Faculty of Allied Health Sciences",
+    "department": "Department of Optometry & Vision Science",
+    "section": "Section 2",
+    "type": "Alumni Talk / Mentoring",
+    "code": "HISTORICAL_SNAPSHOT_ONLY",
+    "detail": "590 is present in an earlier dashboard snapshot, but PRPSTFPT55 is absent from the current 64-submission workbook; exclude from official aggregates until verified.",
+    "severity": "High",
+    "record": "PRPSTFPT55-Section 2-1-previous-snapshot"
+  },
+  {
+    "ref": "PRPSTFPT55",
+    "faculty": "Faculty of Allied Health Sciences",
+    "department": "Department of Optometry & Vision Science",
+    "section": "Section 2",
+    "type": "Alumni Talk / Mentoring",
+    "code": "PLACEHOLDER_ORGANIZATION",
+    "detail": "Original organization is ...; replace with verified name or retain as unverified.",
+    "severity": "High",
+    "record": "PRPSTFPT55-Section 2-1-previous-snapshot"
   }
 ]

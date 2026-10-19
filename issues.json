@@ -3793,5 +3793,27 @@
     "detail": "590 reported in an earlier snapshot (Alumni Talk / Mentoring); unclear unit, placeholder organization (...), remarks hb; missing from current source workbook. Verify before aggregation.",
     "severity": "High",
     "record": "PRPSTFPT55-Section 2-1-previous-snapshot"
+  },
+  {
+    "ref": "PRPSTFPT55",
+    "faculty": "Faculty of Allied Health Sciences",
+    "department": "Department of Optometry & Vision Science",
+    "section": "Section 2",
+    "type": "Alumni Talk / Mentoring",
+    "code": "HISTORICAL_SNAPSHOT_ONLY",
+    "detail": "590 is present in an earlier dashboard snapshot, but PRPSTFPT55 is absent from the current 64-submission workbook; exclude from official aggregates until verified.",
+    "severity": "High",
+    "record": "PRPSTFPT55-Section 2-1-previous-snapshot"
+  },
+  {
+    "ref": "PRPSTFPT55",
+    "faculty": "Faculty of Allied Health Sciences",
+    "department": "Department of Optometry & Vision Science",
+    "section": "Section 2",
+    "type": "Alumni Talk / Mentoring",
+    "code": "PLACEHOLDER_ORGANIZATION",
+    "detail": "Original organization is ...; replace with verified name or retain as unverified.",
+    "severity": "High",
+    "record": "PRPSTFPT55-Section 2-1-previous-snapshot"
   }
 ]

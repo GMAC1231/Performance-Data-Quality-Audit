@@ -7921,6 +7921,7 @@
     "complete": false,
     "raw": "Activity Type: Alumni Talk / Mentoring, How Many: 590, Planned: Yes, Scheduled: Yes, Remarks/Result: hb, Name Of Organization Planned with: ...",
     "auditNote": "Previously supplied dashboard snapshot only; 590 is reported How Many, not verified completed activities or participants. The latest 64-submission source workbook does not include PRPSTFPT55. Verify original submission and unit before merging into official totals.",
-    "sourceNote": "Earlier supplied New-UOL-2026-main(9).zip / data/quality-source.json; not present in latest 64-submission source workbook"
+    "sourceNote": "Earlier supplied New-UOL-2026-main(9).zip / data/quality-source.json; not present in latest 64-submission source workbook",
+    "historical": true
   }
 ]

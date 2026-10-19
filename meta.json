@@ -6,11 +6,13 @@
   "section2Records": 327,
   "departmentVariants": 30,
   "reportingMedianPositive": 4,
-  "method": "Provisional performance grouping from Section 2 reporting volume: below positive-department median = Underperforming; at/above median = Good Performance; zero = insufficient reporting. This does not establish actual outcome performance.",
+  "method": "Underperforming/Good Performance reporting bands are based on Section 2 record counts compared with median among departments reporting at least one activity. No target or completion claims. Quantity does not enter rankings.",
   "caveats": [
     "Flags are potentially overlapping and not proof of error.",
     "Original submission status, planned/scheduled and result are distinct.",
     "Reported student totals are not activity totals.",
-    "Submission rows with no Section 2 data remain visible as reporting gaps."
+    "Submission rows with no Section 2 data remain visible as reporting gaps.",
+    "PRPSTFPT55 590 Alumni Talk / Mentoring is from a prior dashboard snapshot, not the current source workbook, and is excluded from departmental ranking.",
+    "The 590 PRPSTFPT55 historical audit item appears in overview, explorer, outliers and quality audit but is excluded from current workbook KPIs and performance rankings."
   ]
 }
