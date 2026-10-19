@@ -1,0 +1,16 @@
+{
+  "source": "Progress Report (PR)  (Standardized Template for Performance Tracking)_Submissions (7)(1).xlsx",
+  "submissionRows": 64,
+  "uniqueSubmissionRefs": 64,
+  "activityRecords": 465,
+  "section2Records": 327,
+  "departmentVariants": 30,
+  "reportingMedianPositive": 4,
+  "method": "Provisional performance grouping from Section 2 reporting volume: below positive-department median = Underperforming; at/above median = Good Performance; zero = insufficient reporting. This does not establish actual outcome performance.",
+  "caveats": [
+    "Flags are potentially overlapping and not proof of error.",
+    "Original submission status, planned/scheduled and result are distinct.",
+    "Reported student totals are not activity totals.",
+    "Submission rows with no Section 2 data remain visible as reporting gaps."
+  ]
+}
